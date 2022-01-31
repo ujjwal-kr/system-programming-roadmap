@@ -2,11 +2,13 @@
 
 A three year old roadmap to teach myself compiler dev, malware reverse engineering and kernel dev fundamentals. To be noted they are only for the fundamental knowledge and doesn't make you a master of any. I will pick one or more of the above mentioned fields for later research in some specific topics.
 
+Also note that you can still start another topic pretty easily even before finishing the previous ones (which im gona do for sure), given that there are not any prerequisites for it. Dividing them by years was just meant to calculate the time it might take to finish one topic.
+
 ## Prerequisites
 
 I'm already assuming that you have basic understanding of computer architecture and experience with atleast one system programming language, some basics of how assembly works and familiar using unix.
 
-## Contents
+## Year One
 
 ### Learn some x86
 If you are not familiar with assembly yet, I would recommend to check out some tutorials like-
@@ -16,3 +18,14 @@ If you are not familiar with assembly yet, I would recommend to check out some t
 - [Article by 0x41 reversing for dummies](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) to be able to reverse basic crackmes.
 
 After this I would recommend to solve easy crackmes for exercise. [crackmes.one](https://crackmes.one) and tryhackme is a good place to find some of the easy ones. Hard ones still require some pwning knowledge which I'm gona discuss in the exploitation section.
+
+### Compilers
+- Read the [Dragon Book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools).
+- [Crafting Interpreters](https://craftinginterpreters.com/) is a good one for beginners.
+- Make an interpreted programming language.
+- Make a source to source compiler (or transpiler).
+- Try to make a compiled programming language targetting one architecture.
+- Learn about the [LLVM toolchain](https://llvm.org/docs/)
+- Try to follow the llvm tutorial to make your first programmging language using llvm backend.
+- Make a Just In Time Compiler
+- Experiment with the toolchain to create custom backends as well.
