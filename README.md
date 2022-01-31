@@ -4,4 +4,4 @@ A three year old roadmap to teach myself compiler dev, malware reverse engineeri
 
 ## Prerequisites
 
-I'm already assuming that you have basic understanding of computer architecture and experience with atleast one system programming language, some basics of how assembly works and already familiar using unix.
+I'm already assuming that you have basic understanding of computer architecture and experience with atleast one system programming language, some basics of how assembly works and familiar using unix.
