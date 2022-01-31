@@ -29,3 +29,20 @@ After this I would recommend to solve easy crackmes for exercise. [crackmes.one]
 - Try to follow the llvm tutorial to make your first programmging language using llvm backend.
 - Make a Just In Time Compiler
 - Experiment with the toolchain to create custom backends as well.
+
+## Year Two
+
+### Exploitation
+- [pwn.college](https://pwn.college) is the best learning resource I got so far for exploitation. From assembly to kernel exploitation, it covers it all.
+- [LiveOverflow's binexp series on youtube](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+- [Tutorial by 0xinfection](https://0xinfection.github.io/reversing/)
+- After learning about some exploitation, you can solve CTFs now. Some of them include:
+-  [pwnable.kr](https://pwnable.kr)
+-  [Overthewire wargames covering exploitation](https://overthewire.org/wargames)
+-  HackTheBox challenges based on binary exploitation
+
+### Malware
+- [Practical Malware Analysis](https://www.amazon.in/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
+- [Malware analysis bootcamp by hackersploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)
+- [Labs by Malware Unicorn](https://malwareunicorn.org/#/workshops)
+- [VX Underground - The largest collection of malware source code, samples, and papers on the internet.](https://www.vx-underground.org/)
