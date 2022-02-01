@@ -46,3 +46,7 @@ After this I would recommend to solve easy crackmes for exercise. [crackmes.one]
 - [Labs by Malware Unicorn](https://malwareunicorn.org/#/workshops)
 - [VX Underground - The largest collection of malware source code, samples, and papers on the internet.](https://www.vx-underground.org/)
 - [Malware section from the infosec reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Malware.md)
+
+### Todo
+- Browser Exploitation and Development
+- Kernel Dev
