@@ -6,10 +6,13 @@ Also note that you can still start another topic pretty easily even before finis
 
 ## Prerequisites
 
-I'm already assuming that you have basic understanding of computer architecture and experience with atleast one system programming language, some basics of how assembly works and familiar using unix.
+I'm already assuming that you have basic understanding of computer architecture and experience with atleast one system programming language, some basics of how assembly works and familiar using any POSIX system.
 
 ### System Programming Languages
 - [C](https://beej.us/guide/bgc/)
+- [Rust](https://doc.rust-lang.org/stable/book/)
+- [C++](https://www.learncpp.com/)
+- [C++ (video)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
 ### Learn some x86
 If you are not familiar with assembly yet, I would recommend to check out some tutorials like-
