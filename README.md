@@ -10,6 +10,8 @@ I'm already assuming that you have basic understanding of computer architecture 
 
 ### System Programming Languages
 - [C](https://beej.us/guide/bgc/)
+- [Rust](https://doc.rust-lang.org/stable/book/)
+- [C++](https://www.learncpp.com/)
 
 ### Learn some x86
 If you are not familiar with assembly yet, I would recommend to check out some tutorials like-
