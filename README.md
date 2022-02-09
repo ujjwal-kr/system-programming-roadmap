@@ -1,6 +1,6 @@
 # System Programming Roadmap
 
-A three year old roadmap to teach myself compiler dev, malware reverse engineering and kernel dev fundamentals. To be noted they are only for the fundamental knowledge and doesn't make you a master of any. I will pick one or more of the above mentioned fields for later research in some specific topics.
+A three year old roadmap to teach myself compiler dev, malware reverse engineering and kernel dev fundamentals. To be noted they are only for the fundamental knowledge and doesn't make you a master of any. I will pick one or more of the above mentioned fields for later research in some specific topics. [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university) is also a great resource to follow but this is my personal roadmap.
 
 Also note that you can still start another topic pretty easily even before finishing the previous ones (which im gona do for sure), given that there are not any prerequisites for it.
 
