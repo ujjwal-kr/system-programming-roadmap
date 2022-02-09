@@ -17,6 +17,7 @@ I'm already assuming that you have basic understanding of computer architecture 
 ### Learn some x86
 If you are not familiar with assembly yet, I would recommend to check out some tutorials like-
 - [Introduction to x86 assembly language by Davy on youtube](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
+- [OMU x86_64 lessons](https://omu.rce.so/lessons/asm-x86-64/)
 - [x86 Asm](https://en.wikibooks.org/wiki/X86_Assembly)
 - [The Art Of Asm](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
 - Even Manuals are great sources of learning.The manuals for processor can easily be found using a Google search ("Intel Manuals," "ARM manuals)
@@ -39,14 +40,15 @@ After this I would recommend to solve easy crackmes for exercise. [crackmes.one]
 
 ### Exploitation
 - [pwn.college](https://pwn.college) is the best learning resource I got so far for exploitation. From assembly to kernel exploitation, it covers it all.
+- [OMU exploitation labs](https://omu.rce.so/gcc-2022/)
 - [LiveOverflow's binexp series on youtube](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [Tutorial by 0xinfection](https://0xinfection.github.io/reversing/)
 - [Exploit dev on the infosec reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Exploit_Dev.md)
 - [Windows exploit dev](https://github.com/FULLSHADE/WindowsExploitationResources)
 - After learning about some exploitation, you can solve CTFs now. Some of them include:
--  [pwnable.kr](https://pwnable.kr)
--  [Overthewire wargames covering exploitation](https://overthewire.org/wargames)
--  HackTheBox challenges based on binary exploitation
+  -  [pwnable.kr](https://pwnable.kr)
+  -  [Overthewire wargames covering exploitation](https://overthewire.org/wargames)
+  -  HackTheBox challenges based on binary exploitation
 
 ### Malware
 - [Practical Malware Analysis](https://www.amazon.in/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
