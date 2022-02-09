@@ -31,6 +31,7 @@ After this I would recommend to solve easy crackmes for exercise. [crackmes.one]
 ### Compilers
 - Read the [Dragon Book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools).
 - [Crafting Interpreters](https://craftinginterpreters.com/) is a good one for beginners.
+- [Awesome Compilers](https://github.com/aalhour/awesome-compilers)
 - Make an interpreted programming language.
 - Make a source to source compiler (or transpiler).
 - Try to make a compiled programming language targetting one architecture.
@@ -38,6 +39,7 @@ After this I would recommend to solve easy crackmes for exercise. [crackmes.one]
 - Try to follow the llvm tutorial to make your first programmging language using llvm backend.
 - Make a Just In Time Compiler
 - Experiment with the toolchain to create custom backends as well.
+- My [discord server](https://discord.gg/RrDnEj6r9k) lang-dev section
 
 ### Exploitation
 - [pwn.college](https://pwn.college) is the best learning resource I got so far for exploitation. From assembly to kernel exploitation, it covers it all.
@@ -51,6 +53,19 @@ After this I would recommend to solve easy crackmes for exercise. [crackmes.one]
   -  [Overthewire wargames covering exploitation](https://overthewire.org/wargames)
   -  HackTheBox challenges based on binary exploitation
 
+### Browser Exploitation and Development
+- Development
+  - [JavaScript bytecode VM Andreas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55beChggmvk-sUm8X_vSezpqL)
+  - [Browser Parsing & JS AST Anderas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55be0Nfytz9q2KC_drvoKtkpS)
+  - [How to build a virtual machine](https://www.youtube.com/watch?v=OjaAToVkoTw)
+  - [Adventures in JIT compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
+- Exploitation:
+  - [Browser Exploition series by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)
+  - [Web Assembly Hacking talk Black Hat](https://www.youtube.com/watch?v=DFPD9yI-C70)
+  - [Browser pwn on github](https://github.com/m1ghtym0/browser-pwn)
+  - [Web Browser Exploitation- University of Florida](https://www.youtube.com/watch?v=-bfO-b5gzHc)
+
+
 ### Malware
 - [Practical Malware Analysis](https://www.amazon.in/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
 - [Malware analysis bootcamp by hackersploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)
@@ -60,5 +75,4 @@ After this I would recommend to solve easy crackmes for exercise. [crackmes.one]
 - [Malware section from the infosec reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Malware.md)
 
 ### Todo
-- Browser Exploitation and Development
 - Kernel Dev
