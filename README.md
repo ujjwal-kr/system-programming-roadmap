@@ -81,4 +81,5 @@ After this I would recommend to solve easy crackmes for exercise. [crackmes.one]
 I'm not quiet sure that I want to get into kernel development (yet) but the concepts seem cool and its a good idea for a vaccation project or assignments for my OS classes in university. Make sure to read the [requirements](https://wiki.osdev.org/Required_Knowledge) before getting started. 
 - [OS Dev Wiki](https://wiki.osdev.org) is the goto place if you want to learn about OS. It's well documented and also helps eyes to bleed. 
 - [Tutorials Section from awesome OS on github](https://github.com/jubalh/awesome-os#tutorials)
+- [Making An OS - youtube](https://www.youtube.com/playlist?list=PLm3B56ql_akNcvH8vvJRYOc7TbYhRs19M)
 - [My discord server's OS dev channel](https://discord.gg/mAKetvg2eX) to get some more resources and books.
