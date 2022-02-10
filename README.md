@@ -32,10 +32,13 @@ After this I would recommend to solve easy crackmes for exercise. [crackmes.one]
 - Read the [Dragon Book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools).
 - [Crafting Interpreters](https://craftinginterpreters.com/) is a good one for beginners.
 - [Awesome Compilers](https://github.com/aalhour/awesome-compilers)
+- [Make a Language in Rust](https://arzg.github.io/lang/)
+- [Rust Parsing Basics](https://domenicquirl.github.io/blog/parsing-basics/)
 - Make an interpreted programming language.
 - Make a source to source compiler (or transpiler).
 - Try to make a compiled programming language targetting one architecture.
 - Learn about the [LLVM toolchain](https://llvm.org/docs/)
+- [LLVM tutorial in Rust](https://github.com/jauhien/iron-kaleidoscope)
 - Try to follow the llvm tutorial to make your first programmging language using llvm backend.
 - Make a Just In Time Compiler
 - Experiment with the toolchain to create custom backends as well.
@@ -74,5 +77,8 @@ After this I would recommend to solve easy crackmes for exercise. [crackmes.one]
 - [VX Underground - The largest collection of malware source code, samples, and papers on the internet.](https://www.vx-underground.org/)
 - [Malware section from the infosec reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Malware.md)
 
-### Todo
-- Kernel Dev
+### OS Fundamentals
+I'm not quiet sure that I want to get into kernel development (yet) but the concepts seem cool and its a good idea for a vaccation project or assignments for my OS classes in university. Make sure to read the [requirements](https://wiki.osdev.org/Required_Knowledge) before getting started. 
+- [OS Dev Wiki](https://wiki.osdev.org) is the goto place if you want to learn about OS. It's well documented and also helps eyes to bleed. 
+- [Tutorials Section from awesome OS on github](https://github.com/jubalh/awesome-os#tutorials)
+- [My discord server's OS dev channel] to get some more resources and books.
