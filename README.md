@@ -8,13 +8,13 @@ Also note that you can still start another topic pretty easily even before finis
 
 I'm already assuming that you have basic understanding of computer architecture and experience with atleast one system programming language, some basics of how assembly works and familiar using any POSIX system.
 
-### System Programming Languages
+### System Programming Languages -- 4 months
 - [C](https://beej.us/guide/bgc/)
 - [Rust](https://doc.rust-lang.org/stable/book/)
 - [C++](https://www.learncpp.com/)
 - [C++ (video)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
-### Learn some x86
+### Learn some x86 -- 3 months
 If you are not familiar with assembly yet, I would recommend to check out some tutorials like-
 - [Introduction to x86 assembly language by Davy on youtube](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
 - [OMU x86_64 lessons](https://omu.rce.so/lessons/asm-x86-64/)
@@ -28,7 +28,10 @@ If you are not familiar with assembly yet, I would recommend to check out some t
 
 After this I would recommend to solve easy crackmes for exercise. [crackmes.one](https://crackmes.one) and tryhackme is a good place to find some of the easy ones. Hard ones still require some pwning knowledge which I'm gona discuss in the exploitation section.
 
-### Compilers
+### Compilers -- 6-9 months
+
+Prerequisites include experience creating projects in a system programming language and deep understanding of memory and CPU.
+
 - Read the [Dragon Book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools).
 - [Crafting Interpreters](https://craftinginterpreters.com/) is a good one for beginners.
 - [Awesome Compilers](https://github.com/aalhour/awesome-compilers)
@@ -44,7 +47,7 @@ After this I would recommend to solve easy crackmes for exercise. [crackmes.one]
 - Experiment with the toolchain to create custom backends as well.
 - My [discord server](https://discord.gg/RrDnEj6r9k) lang-dev section
 
-### Exploitation
+### Exploitation 2-4 months
 - [pwn.college](https://pwn.college) is the best learning resource I got so far for exploitation. From assembly to kernel exploitation, it covers it all.
 - [OMU exploitation labs](https://omu.rce.so/gcc-2022/)
 - [LiveOverflow's binexp series on youtube](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
@@ -56,7 +59,7 @@ After this I would recommend to solve easy crackmes for exercise. [crackmes.one]
   -  [Overthewire wargames covering exploitation](https://overthewire.org/wargames)
   -  HackTheBox challenges based on binary exploitation
 
-### Browser Exploitation and Development
+### Browser Exploitation and Development 6-9 months
 - Development
   - [Create a basic html dom parser Rust](https://www.youtube.com/watch?v=brhuVn91EdY)
   - [Toy browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html), [Browser engine from scratch](https://zerox-dg.github.io/blog/2020/05/29/Browser-from-Scratch-Introduction/)
@@ -73,7 +76,7 @@ After this I would recommend to solve easy crackmes for exercise. [crackmes.one]
   - [Web Browser Exploitation- University of Florida](https://www.youtube.com/watch?v=-bfO-b5gzHc)
 
 
-### Malware
+### Malware 4-5 months
 - [Practical Malware Analysis](https://www.amazon.in/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
 - [Malware analysis bootcamp by hackersploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)
 - After learning basics of malware reversing and behaviour, you can now move to reversing some real samples of those.
@@ -81,7 +84,7 @@ After this I would recommend to solve easy crackmes for exercise. [crackmes.one]
 - [VX Underground - The largest collection of malware source code, samples, and papers on the internet.](https://www.vx-underground.org/)
 - [Malware section from the infosec reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Malware.md)
 
-### OS Fundamentals
+### OS Fundamentals 6-10 months
 I'm not quiet sure that I want to get into kernel development (yet) but the concepts seem cool and its a good idea for a vaccation project or assignments for my OS classes in university. Make sure to read the [requirements](https://wiki.osdev.org/Required_Knowledge) before getting started. 
 - [OS Dev Wiki](https://wiki.osdev.org) is the goto place if you want to learn about OS. It's well documented and also helps eyes to bleed. 
 - [Tutorials Section from awesome OS on github](https://github.com/jubalh/awesome-os#tutorials)
