@@ -58,9 +58,13 @@ After this I would recommend to solve easy crackmes for exercise. [crackmes.one]
 
 ### Browser Exploitation and Development
 - Development
+  - [Create a basic html dom parser Rust](https://www.youtube.com/watch?v=brhuVn91EdY)
+  - [Toy browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html), [Browser engine from scratch](https://zerox-dg.github.io/blog/2020/05/29/Browser-from-Scratch-Introduction/)
   - [JavaScript bytecode VM Andreas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55beChggmvk-sUm8X_vSezpqL)
   - [Browser Parsing & JS AST Anderas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55be0Nfytz9q2KC_drvoKtkpS)
   - [How to build a virtual machine](https://www.youtube.com/watch?v=OjaAToVkoTw)
+  - [JS internals](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6), [v8's bytecode](https://betterprogramming.pub/javascript-internals-under-the-hood-of-a-browser-f357378cc922)
+  - [Inside lookat modern browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
   - [Adventures in JIT compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
 - Exploitation:
   - [Browser Exploition series by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)
