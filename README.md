@@ -90,3 +90,6 @@ I'm not quiet sure that I want to get into kernel development (yet) but the conc
 - [Tutorials Section from awesome OS on github](https://github.com/jubalh/awesome-os#tutorials)
 - [Making An OS - youtube](https://www.youtube.com/playlist?list=PLm3B56ql_akNcvH8vvJRYOc7TbYhRs19M)
 - [My discord server's OS dev channel](https://discord.gg/mAKetvg2eX) to get some more resources and books.
+- [Broken Thorn's Tutorial](http://www.brokenthorn.com/Resources/)
+- [Little OS Book](https://littleosbook.github.io/)
+- [OS in 3 pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
