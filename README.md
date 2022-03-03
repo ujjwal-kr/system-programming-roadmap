@@ -9,6 +9,7 @@ Topics to study here may or may not be in order and can be studied according to 
 I'm already assuming that you have basic understanding of computer architecture and experience with atleast one system programming language, some basics of how assembly works and familiar using any POSIX system.
 
 ### System Programming Languages -- 4 months
+Learn any two of the given languages, make some basic projects to get yourself familiar with it, solve some programming exercises.
 - [C](https://beej.us/guide/bgc/)
 - [Rust](https://doc.rust-lang.org/stable/book/)
 - [C++](https://www.learncpp.com/)
