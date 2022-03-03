@@ -2,7 +2,7 @@
 
 A three year long roadmap to teach myself compiler dev, malware reverse engineering and kernel dev fundamentals. To be noted they are only for the fundamental knowledge and doesn't make you a master of any. I will pick one or more of the above mentioned fields for later research in some specific topics. [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university) is also a great resource to follow but this is my personal roadmap.
 
-Also note that you can still start another topic pretty easily even before finishing the previous ones (which im gona do for sure), given that there are not any prerequisites for it.
+Topics to study here may or may not be in order and can be studied according to your preference, gievn that prerequisites are getting fulfilled for each one of them.
 
 ## Prerequisites
 
@@ -47,7 +47,8 @@ Prerequisites include experience creating projects in a system programming langu
 - Experiment with the toolchain to create custom backends as well.
 - My [discord server](https://discord.gg/RrDnEj6r9k) lang-dev section
 
-### Exploitation 2-4 months
+### Exploitation -- 2-4 months
+Prerequisites include experience with [assembly](#learn-some-x86----3-months).
 - [pwn.college](https://pwn.college) is the best learning resource I got so far for exploitation. From assembly to kernel exploitation, it covers it all.
 - [OMU exploitation labs](https://omu.rce.so/gcc-2022/)
 - [LiveOverflow's binexp series on youtube](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
@@ -59,24 +60,25 @@ Prerequisites include experience creating projects in a system programming langu
   -  [Overthewire wargames covering exploitation](https://overthewire.org/wargames)
   -  HackTheBox challenges based on binary exploitation
 
-### Browser Exploitation and Development 6-9 months
+### Browser Exploitation and Development -- 6-9 months
+Prerequisites include high level knowlegde of [VM internals](#vm-internals), and solid understanding and experience with [Compiler Engineering](#compilers----6-9-months)
 - Development
   - [Create a basic html dom parser Rust](https://www.youtube.com/watch?v=brhuVn91EdY)
   - [Toy browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html), [Browser engine from scratch](https://zerox-dg.github.io/blog/2020/05/29/Browser-from-Scratch-Introduction/)
   - [JavaScript bytecode VM Andreas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55beChggmvk-sUm8X_vSezpqL)
   - [Browser Parsing & JS AST Anderas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55be0Nfytz9q2KC_drvoKtkpS)
-  - [How to build a virtual machine](https://www.youtube.com/watch?v=OjaAToVkoTw)
-  - [JS internals](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6), [v8's bytecode](https://betterprogramming.pub/javascript-internals-under-the-hood-of-a-browser-f357378cc922)
-  - [Inside lookat modern browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+  - [Inside look at modern browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
   - [Adventures in JIT compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
-- Exploitation:
+  - After learning about parsing, rendering and JIT, you can now make your own browser with basic APIs and minimal features, following the [whatwg standards](https://whatwg.org/)
+- Exploitation: (learn some binary exploitation and workings of the browser)
+  To learn more about the browser, you can learn how to exploit/reverse engineer some.
   - [Browser Exploition series by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)
   - [Web Assembly Hacking talk Black Hat](https://www.youtube.com/watch?v=DFPD9yI-C70)
   - [Browser pwn on github](https://github.com/m1ghtym0/browser-pwn)
   - [Web Browser Exploitation- University of Florida](https://www.youtube.com/watch?v=-bfO-b5gzHc)
 
-
-### Malware 4-5 months
+### Malware -- 4-5 months
+Prerequisites includes high level understanding of windows and solid reverse engineering skills.
 - [Practical Malware Analysis](https://www.amazon.in/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
 - [Malware analysis bootcamp by hackersploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)
 - After learning basics of malware reversing and behaviour, you can now move to reversing some real samples of those.
@@ -93,3 +95,10 @@ I'm not quiet sure that I want to get into kernel development (yet) but the conc
 - [Broken Thorn's Tutorial](http://www.brokenthorn.com/Resources/)
 - [Little OS Book](https://littleosbook.github.io/)
 - [OS in 3 pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+### VM internals
+Lists of VM internals to study while making progress in compiler engineering and Browser development.
+- [How to build a virtual machine](https://www.youtube.com/watch?v=OjaAToVkoTw)
+- [JS internals](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6), [V8's bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
+- [Dart VM architecture](https://mrale.ph/dartvm/)
+- [JVM internals](https://blog.jamesdbloom.com/JVMInternals.html)
