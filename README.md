@@ -83,6 +83,7 @@ Prerequisites include high level knowlegde of [VM internals](#vm-internals), and
 Prerequisites includes high level understanding of windows and solid reverse engineering skills.
 - [Practical Malware Analysis](https://www.amazon.in/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
 - [Malware analysis bootcamp by hackersploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)
+- [CS5138 Malware Analysis, UC](https://class.malware.re/)
 - After learning basics of malware reversing and behaviour, you can now move to reversing some real samples of those.
 - [Labs by Malware Unicorn](https://malwareunicorn.org/#/workshops)
 - [VX Underground - The largest collection of malware source code, samples, and papers on the internet.](https://www.vx-underground.org/)
