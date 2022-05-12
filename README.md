@@ -59,6 +59,7 @@ Prerequisites include experience with [assembly](#learn-some-x86----3-months).
 - [Windows exploit dev](https://github.com/FULLSHADE/WindowsExploitationResources)
 - After learning about some exploitation, you can solve CTFs now. Some of them include:
   -  [pwnable.kr](https://pwnable.kr)
+  -  [Exploit Education VMs](https://exploit.education/)
   -  [Overthewire wargames covering exploitation](https://overthewire.org/wargames)
   -  HackTheBox challenges based on binary exploitation
 
