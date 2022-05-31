@@ -12,7 +12,7 @@ I'm already assuming that you have basic understanding of computer architecture 
 Learn any two of the given languages, make some basic projects to get yourself familiar with it, solve some programming exercises.
 - [C](https://beej.us/guide/bgc/)
 - [Rust](https://doc.rust-lang.org/stable/book/)
-- [C++](https://www.learncpp.com/)
+- [Learn C++](https://www.learncpp.com/), [C++ reference](https://en.cppreference.com/w/)
 - [C++ (video)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
 ### Learn some x86 -- 3 months
