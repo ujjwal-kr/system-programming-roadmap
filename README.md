@@ -73,7 +73,7 @@ Prerequisites include high level knowlegde of [VM internals](#vm-internals), and
   - [Browser Parsing & JS AST Anderas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55be0Nfytz9q2KC_drvoKtkpS)
   - [Inside look at modern browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
   - [Adventures in JIT compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
-  - Network Programming [Rust](https://github.com/pingcap/talent-plan/tree/master/courses/rust), [C](https://beej.us/guide/bgnet/)
+  - Network Programming [Rust Networking](https://www.rust-lang.org/what/networking), [Rust std::net](https://doc.rust-lang.org/std/net/index.html),[C](https://beej.us/guide/bgnet/)
   - After learning about parsing, rendering and JIT, you can now make your own browser with basic APIs and minimal features, following the [whatwg standards](https://whatwg.org/)
 - Exploitation: (learn some binary exploitation and workings of the browser)
   To learn more about the browser, you can learn how to exploit/reverse engineer some.
