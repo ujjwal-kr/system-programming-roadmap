@@ -57,6 +57,7 @@ Prerequisites include experience with [assembly](#learn-some-x86----3-months).
 - [LiveOverflow's binexp series on youtube](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [Tutorial by 0xinfection](https://0xinfection.github.io/reversing/)
 - [Exploit dev on the infosec reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Exploit_Dev.md)
+- [ROP Emporium](https://ropemporium.com/index.html)
 - [Windows exploit dev](https://github.com/FULLSHADE/WindowsExploitationResources)
 - After learning about some exploitation, you can solve CTFs now. Some of them include:
   -  [pwnable.kr](https://pwnable.kr)
