@@ -19,11 +19,9 @@ Learn any two of the given languages, make some basic projects to get yourself f
 If you are not familiar with assembly yet, I would recommend to check out some tutorials like-
 - [Introduction to x86 assembly language by Davy on youtube](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
 - [OMU x86_64 lessons](https://omu.rce.so/lessons/asm-x86-64/)
-- [begin.re/](https://www.begin.re/)
 - [x86 Asm](https://en.wikibooks.org/wiki/X86_Assembly)
 - [The Art Of Asm](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
 - Even Manuals are great sources of learning.The manuals for processor can easily be found using a Google search ("Intel Manuals," "ARM manuals)
-- After being comfortable with the concepts, [x86 instruction listings](https://en.wikipedia.org/wiki/X86_instruction_listings) on wikipedia will always be the goto guide for reference.
 - And making C programs and reading the disassembly always helps to match patterns.
 - [Article by 0x41 reversing for dummies](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) to be able to reverse basic crackmes.
 
