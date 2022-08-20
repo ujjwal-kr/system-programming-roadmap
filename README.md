@@ -107,4 +107,4 @@ Lists of VM internals to study while making progress in compiler engineering and
 - [How to build a virtual machine](https://www.youtube.com/watch?v=OjaAToVkoTw)
 - [JS internals](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6), [V8's bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 - [Dart VM architecture](https://mrale.ph/dartvm/)
-- [JVM structure main](https://docs.oracle.com/javase/7/docs/), [JVM internals I](https://blog.jamesdbloom.com/JVMInternals.html), [JVM internals II](https://www.freecodecamp.org/news/jvm-tutorial-java-virtual-machine-architecture-explained-for-beginners/)
+- [JVM structure main](https://docs.oracle.com/javase/specs/jvms/se14/html/jvms-2.html), [JVM internals Beginners](https://blog.jamesdbloom.com/JVMInternals.html), [JVM internals II](https://www.freecodecamp.org/news/jvm-tutorial-java-virtual-machine-architecture-explained-for-beginners/)
