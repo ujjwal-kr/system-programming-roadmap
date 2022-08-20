@@ -33,17 +33,18 @@ Prerequisites include experience creating projects in a system programming langu
 
 - Read the [Dragon Book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools).
 - [Crafting Interpreters](https://craftinginterpreters.com/) is a good one for beginners.
+- [Language Implementation Patterns](https://pragprog.com/titles/tpdsl/language-implementation-patterns/) provides some good insights on workings of compilers.
+- [Stanford Notes CS143](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128) Good assignments and notes related to compiler design.
 - [Awesome Compilers](https://github.com/aalhour/awesome-compilers)
 - [Make a Language in Rust](https://arzg.github.io/lang/)
 - [Rust Parsing Basics](https://domenicquirl.github.io/blog/parsing-basics/)
-- Make an interpreted programming language.
-- Make a source to source compiler (or transpiler).
+- Make a tree walk interpreted programming language.
+- Also try to implement a bytecode engine for your interpreter, try out some optimizations and GC.
 - Try to make a compiled programming language targetting one architecture.
 - Learn about the [LLVM toolchain](https://llvm.org/docs/)
 - [LLVM tutorial in Rust](https://github.com/jauhien/iron-kaleidoscope)
 - Try to follow the llvm tutorial to make your first programmging language using llvm backend.
-- Make a Just In Time Compiler
-- Experiment with the toolchain to create custom backends as well.
+- Try to make a Just In Time Compiler around the bytecode engine and simulate a JIT runtime environment.
 - My [discord server](https://discord.gg/RrDnEj6r9k) lang-dev section
 
 ### Exploitation -- 2-4 months
@@ -61,6 +62,7 @@ Prerequisites include experience with [assembly](#learn-some-x86----3-months).
   -  [pwnable.kr](https://pwnable.kr)
   -  [Exploit Education VMs](https://exploit.education/)
   -  [Overthewire wargames covering exploitation](https://overthewire.org/wargames)
+  -  [pwnable.pn]
   -  HackTheBox challenges based on binary exploitation
 
 ### Browser Exploitation and Development -- 6-9 months
@@ -96,11 +98,10 @@ I'm not quite sure that I want to get into kernel development (yet) but the conc
 - [OS Dev Wiki](https://wiki.osdev.org) is the goto place if you want to learn about OS. It's well documented and also helps eyes to bleed.
 - [Linux Kernel Labs](https://linux-kernel-labs.github.io/refs/heads/master/)
 - [Tutorials Section from awesome OS on github](https://github.com/jubalh/awesome-os#tutorials)
-- [Making An OS - youtube](https://www.youtube.com/playlist?list=PLm3B56ql_akNcvH8vvJRYOc7TbYhRs19M)
-- [My discord server's OS dev channel](https://discord.gg/mAKetvg2eX) to get some more resources and books.
 - [Broken Thorn's Tutorial](http://www.brokenthorn.com/Resources/)
-- [Little OS Book](https://littleosbook.github.io/)
 - [OS in 3 pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Little OS Book](https://littleosbook.github.io/)
+- [My discord server's OS dev channel](https://discord.gg/mAKetvg2eX) to get some more resources and books.
 
 ### VM internals
 Lists of VM internals to study while making progress in compiler engineering and Browser development.
