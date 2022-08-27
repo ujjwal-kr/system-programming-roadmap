@@ -35,6 +35,7 @@ Prerequisites include experience creating projects in a system programming langu
 - [Crafting Interpreters](https://craftinginterpreters.com/) is a good one for beginners.
 - [Language Implementation Patterns](https://pragprog.com/titles/tpdsl/language-implementation-patterns/) provides some good insights on workings of compilers.
 - [Stanford Notes CS143](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128) Good assignments and notes related to compiler design.
+- [CMU slides and Projects](https://www.cs.cmu.edu/~janh/courses/411/16/schedule.html)
 - [Awesome Compilers](https://github.com/aalhour/awesome-compilers)
 - [Make a Language in Rust](https://arzg.github.io/lang/)
 - [Rust Parsing Basics](https://domenicquirl.github.io/blog/parsing-basics/)
