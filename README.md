@@ -50,7 +50,6 @@ Prerequisites include experience creating projects in a system programming langu
 ### Exploitation -- 2-4 months
 Prerequisites include experience with [assembly](#learn-some-x86----3-months).
 - [pwn.college](https://pwn.college) is the best learning resource I got so far for exploitation. From assembly to kernel exploitation, it covers it all.
-- [gdb guide](https://beej.us/guide/bggdb/)
 - [Introduction to exploit development](https://samsclass.info/127/ED_2020.shtml)
 - [OMU exploitation labs](https://omu.rce.so/gcc-2022/)
 - [LiveOverflow's binexp series on youtube](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
