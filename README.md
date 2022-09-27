@@ -16,6 +16,8 @@ Learn any two of the given languages, make some basic projects to get yourself f
 - [C++ (video)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
 ### Learn some x86 -- 3 months
+Prerequisites: Learn about [Digital Logic](https://agner.org/digital/digital_electronics_agner_fog.pdf)
+
 If you are not familiar with assembly yet, I would recommend to check out some tutorials like-
 - [Introduction to x86 assembly language by Davy on youtube](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
 - [OMU x86_64 lessons](https://omu.rce.so/lessons/asm-x86-64/)
