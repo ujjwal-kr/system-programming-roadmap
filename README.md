@@ -6,7 +6,7 @@ Topics to study here may or may not be in order and can be studied according to 
 
 ## Prerequisites
 
-I'm already assuming that you have basic understanding of computer architecture and experience with atleast one system programming language, some basics of how assembly works and familiar using any POSIX system.
+I'm already assuming that you have basic understanding of computer architecture and experience with atleast one system programming language, some basics of how assembly works and familiar using any POSIX system. A good detailed look of how computers work at the electronics level can be found in the book [Introduction to Digital Electronics](https://agner.org/digital/digital_electronics_agner_fog.pdf) by Anger Fog.
 
 ### System Programming Languages -- 4 months
 Learn any two of the given languages, make some basic projects to get yourself familiar with it, solve some programming exercises.
