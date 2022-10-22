@@ -107,7 +107,7 @@ I'm not quite sure that I want to get into kernel development (yet) but the conc
 - [My discord server's OS dev channel](https://discord.gg/mAKetvg2eX) to get some more resources and books.
 
 ### VM internals
-Lists of VM internals to study while making progress in compiler engineering and Browser development.
+Lists of VM internals to study while making progress in compiler engineering and Browser development:
 - [How to build a virtual machine](https://www.youtube.com/watch?v=OjaAToVkoTw)
 - [JS internals](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6), [V8's bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 - [Dart VM architecture](https://mrale.ph/dartvm/)
