@@ -54,6 +54,7 @@ Prerequisites include experience creating projects in a system programming langu
 Prerequisites include experience with [assembly](#learn-some-x86----3-months).
 - [pwn.college](https://pwn.college) is the best learning resource I got so far for exploitation. From assembly to kernel exploitation, it covers it all.
 - [Introduction to exploit development](https://samsclass.info/127/ED_2020.shtml)
+- [CS6265: Reverse Engineering and Binary Exploitation Lab](https://tc.gts3.org/cs6265/2021/_static/tut.pdf)
 - [OMU exploitation labs](https://omu.rce.so/gcc-2022/)
 - [LiveOverflow's binexp series on youtube](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [Tutorial by 0xinfection](https://0xinfection.github.io/reversing/)
@@ -76,6 +77,7 @@ Prerequisites include high level knowlegde of [VM internals](#vm-internals), and
   - [JavaScript bytecode VM Andreas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55beChggmvk-sUm8X_vSezpqL)
   - [Browser Parsing & JS AST Anderas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55be0Nfytz9q2KC_drvoKtkpS)
   - [Inside look at modern browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+  - [High performance gc for V8](https://v8.dev/blog/high-performance-cpp-gc)
   - [Adventures in JIT compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
   - Network Programming [Rust Networking](https://www.rust-lang.org/what/networking), [Rust std::net](https://doc.rust-lang.org/std/net/index.html),[C](https://beej.us/guide/bgnet/)
   - After learning about parsing, rendering and JIT, you can now make your own browser with basic APIs and minimal features, following the [whatwg standards](https://whatwg.org/)
