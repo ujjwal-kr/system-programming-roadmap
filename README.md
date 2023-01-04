@@ -47,7 +47,7 @@ Prerequisites include experience creating projects in a system programming langu
 - Learn about the [LLVM toolchain](https://llvm.org/docs/)
 - [LLVM tutorial in Rust](https://github.com/jauhien/iron-kaleidoscope)
 - Try to follow the llvm tutorial to make your first programmging language using llvm backend.
-- Try to make a Just In Time Compiler around the bytecode engine and simulate a JIT runtime environment.
+- Try to make a Just In Time Compiler around the bytecode engine, detect hot regions and JIT them.
 - My [discord server](https://discord.gg/RrDnEj6r9k) lang-dev section
 
 ### Exploitation -- 2-4 months
