@@ -93,7 +93,7 @@ Prerequisites include high level knowlegde of [VM internals](#vm-internals), and
   - [Web Browser Exploitation- University of Florida](https://www.youtube.com/watch?v=-bfO-b5gzHc)
   - Go through writups of CVEs or CTF challenges based around browsers or runtime envs.
 
-### Malware -- 4-5 months
+### Malware
 Prerequisites includes high level understanding of windows and solid reverse engineering skills.
 - [Practical Malware Analysis](https://www.amazon.in/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
 - [Malware analysis bootcamp by hackersploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)
