@@ -1,6 +1,6 @@
 # System Programming Roadmap
 
-A three year long roadmap to teach myself compiler dev, malware reverse engineering and kernel dev fundamentals. To be noted they are only for the fundamental knowledge and doesn't make you a master of any. I will pick one or more of the below mentioned fields for later research in some specific topics. [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university) is also a great resource to follow but this is my personal roadmap.
+A three year long roadmap to teach myself compiler dev, malware reverse engineering and kernel dev fundamentals. To be noted they are only for the fundamental knowledge and doesn't make you a master of any. I will pick one or more of the below mentioned fields for later research in some specific topics. [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university) is also has a good list of resources to follow but this is my personal roadmap.
 
 Topics to study here may or may not be in order and can be studied according to your preference, gievn that prerequisites are getting fulfilled for each one of them.
 
@@ -114,3 +114,8 @@ Lists of VM internals to study while making progress in compiler engineering and
 - [JS internals](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6), [V8's bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 - [Dart VM architecture](https://mrale.ph/dartvm/)
 - [JVM structure main](https://docs.oracle.com/javase/specs/jvms/se14/html/jvms-2.html), [JVM internals I](https://blog.jamesdbloom.com/JVMInternals.html), [JVM internals Beginners](https://www.freecodecamp.org/news/jvm-tutorial-java-virtual-machine-architecture-explained-for-beginners/)
+
+### Collective Courses
+Collection of resources which includes 2 or more of the topics discussed above:
+- [Nand To Tetris](https://www.nand2tetris.org) A course to tech you about how too build a computer, OS and a compiler form stratch.
+- [Dive Into Systems](https://diveintosystems.org/) A really good book to introduce you with systems programming.
