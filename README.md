@@ -8,14 +8,14 @@ Topics to study here may or may not be in order and can be studied according to 
 
 I'm already assuming that you have basic understanding of computer architecture and experience with atleast one system programming language, some basics of how assembly works and familiar using any POSIX system. A good detailed look of how computers work at the electronics level can be found in the book [Introduction to Digital Electronics](https://agner.org/digital/digital_electronics_agner_fog.pdf) by Agner Fog.
 
-### System Programming Languages -- 4 months
+### System Programming Languages
 Learn any two of the given languages, make some basic projects to get yourself familiar with it, solve some programming exercises.
 - [C](https://beej.us/guide/bgc/)
 - [Rust](https://doc.rust-lang.org/stable/book/)
 - [Learn C++](https://www.learncpp.com/), [C++ reference](https://en.cppreference.com/w/)
 - [C++ (video)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
-### Learn some x86 -- 3 months
+### Learn some x86
 Prerequisites: Learn about [Digital Logic](https://agner.org/digital/digital_electronics_agner_fog.pdf)
 
 If you are not familiar with assembly yet, I would recommend to check out some tutorials like-
@@ -29,7 +29,7 @@ If you are not familiar with assembly yet, I would recommend to check out some t
 
 After this I would recommend to solve easy crackmes for exercise. [crackmes.one](https://crackmes.one) and tryhackme is a good place to find some of the easy ones. Hard ones still require some pwning knowledge which I'm gona discuss in the exploitation section.
 
-### Compilers -- 6-9 months
+### Compilers
 
 Prerequisites include experience creating projects in a system programming language and deep understanding of memory and CPU.
 
@@ -50,8 +50,8 @@ Prerequisites include experience creating projects in a system programming langu
 - Try to make a Just In Time Compiler around the bytecode engine, detect hot regions and JIT them.
 - My [discord server](https://discord.gg/RrDnEj6r9k) lang-dev section
 
-### Exploitation -- 2-4 months
-Prerequisites include experience with [assembly](#learn-some-x86----3-months).
+### Exploitation
+Prerequisites include experience with [assembly](#learn-some-x86).
 - [pwn.college](https://pwn.college) is the best learning resource I got so far for exploitation. From assembly to kernel exploitation, it covers it all.
 - [Introduction to exploit development](https://samsclass.info/127/ED_2020.shtml)
 - [CS6265: Reverse Engineering and Binary Exploitation Lab](https://tc.gts3.org/cs6265/2021/_static/tut.pdf)
@@ -68,7 +68,7 @@ Prerequisites include experience with [assembly](#learn-some-x86----3-months).
   -  [Overthewire wargames covering exploitation](https://overthewire.org/wargames)
   -  HackTheBox challenges based on binary exploitation
 
-### Browser Exploitation and Development -- 6-9 months
+### Browser Exploitation and Development
 Prerequisites include high level knowlegde of [VM internals](#vm-internals), and solid understanding and experience with [Compiler Engineering](#compilers----6-9-months)
 - Development
   - [Create a basic html dom parser Rust](https://www.youtube.com/watch?v=brhuVn91EdY)
@@ -103,7 +103,7 @@ Prerequisites includes high level understanding of windows and solid reverse eng
 - [VX Underground - The largest collection of malware source code, samples, and papers on the internet.](https://www.vx-underground.org/)
 - [Malware section from the infosec reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Malware.md)
 
-### OS Fundamentals 6-10 months
+### OS Fundamentals
 I'm not quite sure that I want to get into kernel development (yet) but the concepts seem cool and its a good idea for a vacation project or assignments for my OS classes in university. Make sure to read the [requirements](https://wiki.osdev.org/Required_Knowledge) before getting started. 
 - [OS Dev Wiki](https://wiki.osdev.org) is the goto place if you want to learn about OS. It's well documented and also helps eyes to bleed.
 - [Linux Kernel Labs](https://linux-kernel-labs.github.io/refs/heads/master/)
