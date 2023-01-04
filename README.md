@@ -117,5 +117,5 @@ Lists of VM internals to study while making progress in compiler engineering and
 
 ### Collective Courses
 Collection of resources which includes 2 or more of the topics discussed above:
-- [Nand To Tetris](https://www.nand2tetris.org) A course to teach you about how too build a computer, OS and a compiler form stratch.
+- [Nand To Tetris](https://www.nand2tetris.org) A course to teach you about how to build a computer, OS and a compiler form stratch.
 - [Dive Into Systems](https://diveintosystems.org/) A really good book to introduce you with systems programming.
