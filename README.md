@@ -66,7 +66,6 @@ Prerequisites include experience with [assembly](#learn-some-x86----3-months).
   -  [pwnable.kr](https://pwnable.kr)
   -  [Exploit Education VMs](https://exploit.education/)
   -  [Overthewire wargames covering exploitation](https://overthewire.org/wargames)
-  -  [pwnable.pn]
   -  HackTheBox challenges based on binary exploitation
 
 ### Browser Exploitation and Development -- 6-9 months
@@ -77,9 +76,14 @@ Prerequisites include high level knowlegde of [VM internals](#vm-internals), and
   - [JavaScript bytecode VM Andreas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55beChggmvk-sUm8X_vSezpqL)
   - [Browser Parsing & JS AST Anderas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55be0Nfytz9q2KC_drvoKtkpS)
   - [Inside look at modern browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+  - Graphics: Choose a 2d graphics lib for your language or platform.
+    You can surely use [OpenGL](https://learnopengl.com) or Vulkan?!? to render your innocent CSS but trust me it is not worth it.
+    - [Skia](https://skia.org/) is a good one for linux and android (chrome uses it on android)
+    - [Direct2D](https://learn.microsoft.com/en-us/windows/win32/direct2d/direct2d-portal) yeah windows only.
+    - [Cairo](https://www.cairographics.org/) and [Blend2D](https://blend2d.com) These are cross platform, worth looking into.
   - [High performance gc for V8](https://v8.dev/blog/high-performance-cpp-gc)
   - [Adventures in JIT compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
-  - Network Programming [Rust Networking](https://www.rust-lang.org/what/networking), [Rust std::net](https://doc.rust-lang.org/std/net/index.html),[C](https://beej.us/guide/bgnet/)
+  - Network Programming [Rust Networking](https://www.rust-lang.org/what/networking), [Rust std::net](https://doc.rust-lang.org/std/net/index.html), [C](https://beej.us/guide/bgnet/)
   - After learning about parsing, rendering and JIT, you can now make your own browser with basic APIs and minimal features, following the [whatwg standards](https://whatwg.org/)
 - Exploitation: (learn some binary exploitation and workings of the browser)
   To learn more about the browser, you can learn how to exploit/reverse engineer some.
@@ -87,6 +91,7 @@ Prerequisites include high level knowlegde of [VM internals](#vm-internals), and
   - [Web Assembly Hacking talk Black Hat](https://www.youtube.com/watch?v=DFPD9yI-C70)
   - [Browser pwn on github](https://github.com/m1ghtym0/browser-pwn)
   - [Web Browser Exploitation- University of Florida](https://www.youtube.com/watch?v=-bfO-b5gzHc)
+  - Go through writups of CVEs or CTF challenges based around browsers or runtime envs.
 
 ### Malware -- 4-5 months
 Prerequisites includes high level understanding of windows and solid reverse engineering skills.
