@@ -19,12 +19,13 @@ Learn any two of the given languages, make some basic projects to get yourself f
 Prerequisites: Learn about [Digital Logic](https://agner.org/digital/digital_electronics_agner_fog.pdf)
 
 If you are not familiar with assembly yet, I would recommend to check out some tutorials like-
+- [x86 quickstart](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 - [Introduction to x86 assembly language by Davy on youtube](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
 - [OMU x86_64 lessons](https://omu.rce.so/lessons/asm-x86-64/)
 - [x86 Asm](https://en.wikibooks.org/wiki/X86_Assembly)
 - [The Art Of Asm](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
 - Even Manuals are great sources of learning.The manuals for processor can easily be found using a Google search ("Intel Manuals," "ARM manuals)
-- And making C programs and reading the disassembly always helps to match patterns.
+- [Compiler Explorer](https://godbolt.org/): Making C programs and reading the disassembly always helps to match patterns.
 - [Article by 0x41 reversing for dummies](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) to be able to reverse basic crackmes.
 
 After this I would recommend to solve easy crackmes for exercise. [crackmes.one](https://crackmes.one) and tryhackme is a good place to find some of the easy ones. Hard ones still require some pwning knowledge which I'm gona discuss in the exploitation section.
