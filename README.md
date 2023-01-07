@@ -69,7 +69,7 @@ Prerequisites include experience with [assembly](#learn-some-x86).
   -  [Overthewire wargames covering exploitation](https://overthewire.org/wargames)
   -  HackTheBox challenges based on binary exploitation
 
-### Browser Exploitation and Development
+### Browser Hacking
 Prerequisites include high level knowlegde of [VM internals](#vm-internals), and solid understanding and experience with [Compiler Engineering](#compilers----6-9-months)
 - Development
   - [Create a basic html dom parser Rust](https://www.youtube.com/watch?v=brhuVn91EdY)
@@ -77,6 +77,8 @@ Prerequisites include high level knowlegde of [VM internals](#vm-internals), and
   - [JavaScript bytecode VM Andreas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55beChggmvk-sUm8X_vSezpqL)
   - [Browser Parsing & JS AST Anderas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55be0Nfytz9q2KC_drvoKtkpS)
   - [Inside look at modern browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+  - Blogs to follow: [V8](https://v8.dev/blog), [MozHacks](https://hacks.mozilla.org/), [Webkit](https://webkit.org/blog/)
+  - Docs: [Firefox](https://firefox-source-docs.mozilla.org/index.html), [Chromium](https://chromium.googlesource.com/chromium/src/+/master/docs/README.md), [Webkit Wiki](https://chromium.googlesource.com/chromium/src/+/master/docs/README.md)
   - Graphics: Choose a 2d graphics lib for your language or platform.
     You can surely use [OpenGL](https://learnopengl.com) or Vulkan?!? to render your innocent CSS but trust me it is not worth it.
     - [Skia](https://skia.org/) is a good one for linux and android (chrome uses it on android)
@@ -88,7 +90,7 @@ Prerequisites include high level knowlegde of [VM internals](#vm-internals), and
   - After learning about parsing, rendering and JIT, you can now make your own browser with basic APIs and minimal features, following the [whatwg standards](https://whatwg.org/)
 - Exploitation: (learn some binary exploitation and workings of the browser)
   To learn more about the browser, you can learn how to exploit/reverse engineer some.
-  - [Browser Exploition series by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)
+  - [Browser Exploition series by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t) | [Written](https://liveoverflow.com/topic/browser-exploitation/)
   - [Web Assembly Hacking talk Black Hat](https://www.youtube.com/watch?v=DFPD9yI-C70)
   - [Browser pwn on github](https://github.com/m1ghtym0/browser-pwn)
   - [Web Browser Exploitation- University of Florida](https://www.youtube.com/watch?v=-bfO-b5gzHc)
