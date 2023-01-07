@@ -79,6 +79,7 @@ Prerequisites include high level knowlegde of [VM internals](#vm-internals), and
   - [Inside look at modern browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
   - Blogs to follow: [V8](https://v8.dev/blog), [MozHacks](https://hacks.mozilla.org/), [Webkit](https://webkit.org/blog/)
   - Docs: [Firefox](https://firefox-source-docs.mozilla.org/index.html), [Chromium](https://chromium.googlesource.com/chromium/src/+/master/docs/README.md), [Webkit Wiki](https://chromium.googlesource.com/chromium/src/+/master/docs/README.md)
+  - [Compiler Compiler: A Twitch series about working on a JavaScript engine](https://hacks.mozilla.org/2020/06/compiler-compiler-working-on-a-javascript-engine/)
   - Graphics: Choose a 2d graphics lib for your language or platform.
     You can surely use [OpenGL](https://learnopengl.com) or Vulkan?!? to render your innocent CSS but trust me it is not worth it.
     - [Skia](https://skia.org/) is a good one for linux and android (chrome uses it on android)
