@@ -19,7 +19,9 @@ Learn any two of the given languages, make some basic projects to get yourself f
 Prerequisites: Learn about [Digital Logic](https://agner.org/digital/digital_electronics_agner_fog.pdf)
 
 If you are not familiar with assembly yet, I would recommend to check out some tutorials like-
-- [x86 quickstart](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+- [x86 quickstart[MASM]](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+- [x86 quickstart [NASM]](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
+- [Another x86 quickstart[NASM]](https://asmtutor.com/)
 - [Introduction to x86 assembly language by Davy on youtube](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
 - [OMU x86_64 lessons](https://omu.rce.so/lessons/asm-x86-64/)
 - [x86 Asm](https://en.wikibooks.org/wiki/X86_Assembly)
