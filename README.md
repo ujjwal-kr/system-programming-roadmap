@@ -57,14 +57,17 @@ Prerequisites include experience creating projects in a system programming langu
 Prerequisites include experience with [assembly](#learn-some-x86).
 - [pwn.college](https://pwn.college) is the best learning resource I got so far for exploitation. From assembly to kernel exploitation, it covers it all.
 - [Introduction to exploit development](https://samsclass.info/127/ED_2020.shtml)
+- [Nightmare](https://guyinatuxedo.github.io/index.html): Intro to binary exploitation based around CTFs.
 - [CS6265: Reverse Engineering and Binary Exploitation Lab](https://tc.gts3.org/cs6265/2021/_static/tut.pdf)
 - [OMU exploitation labs](https://omu.rce.so/gcc-2022/)
 - [LiveOverflow's binexp series on youtube](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [Tutorial by 0xinfection](https://0xinfection.github.io/reversing/)
 - [Exploit dev on the infosec reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Exploit_Dev.md)
 - [ROP Emporium](https://ropemporium.com/index.html)
-- [Win32 API programming](https://riptutorial.com/Download/win32-api.pdf)
-- [Windows exploit dev](https://github.com/FULLSHADE/WindowsExploitationResources)
+- Windows Stuff
+  - [Windows x64 reversing](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
+  - [Win32 API programming](https://riptutorial.com/Download/win32-api.pdf)
+  - [Windows exploit dev](https://github.com/FULLSHADE/WindowsExploitationResources)
 - After learning about some exploitation, you can solve CTFs now. Some of them include:
   -  [pwnable.kr](https://pwnable.kr)
   -  [Exploit Education VMs](https://exploit.education/)
@@ -91,8 +94,7 @@ Prerequisites include high level knowlegde of [VM internals](#vm-internals), and
   - [Adventures in JIT compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
   - Network Programming [Rust Networking](https://www.rust-lang.org/what/networking), [Rust std::net](https://doc.rust-lang.org/std/net/index.html), [C](https://beej.us/guide/bgnet/)
   - After learning about parsing, rendering and JIT, you can now make your own browser with basic APIs and minimal features, following the [whatwg standards](https://whatwg.org/)
-- Exploitation: (learn some binary exploitation and workings of the browser)
-  To learn more about the browser, you can learn how to exploit/reverse engineer some.
+- Exploitation: A great way to understand about how a browser works is to try to hack it: (prerequisites include solid binary exploitation skills)
   - [Browser Exploition series by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t) | [Written](https://liveoverflow.com/topic/browser-exploitation/)
   - [Web Assembly Hacking talk Black Hat](https://www.youtube.com/watch?v=DFPD9yI-C70)
   - [Browser pwn on github](https://github.com/m1ghtym0/browser-pwn)
