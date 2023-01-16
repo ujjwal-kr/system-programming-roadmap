@@ -119,6 +119,13 @@ I'm not quite sure that I want to get into kernel development (yet) but the conc
 - [Broken Thorn's Tutorial](http://www.brokenthorn.com/Resources/)
 - [OS in 3 pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Little OS Book](https://littleosbook.github.io/)
+- [Blog OS: Writing an OS in rust](https://os.phil-opp.com/)
+- [Bootlin Slides and Labs](https://bootlin.com/docs/)
+Stuff to work on:
+  - [React OS](https://reactos.org/architecture/)
+  - [The Eudyptula Challenge](http://www.eudyptula-challenge.org/)
+  - [Redox](https://www.redox-os.org/)
+  - [More rust projects](https://wiki.osdev.org/Rust)
 - [My discord server's OS dev channel](https://discord.gg/mAKetvg2eX) to get some more resources and books.
 
 ### VM internals
