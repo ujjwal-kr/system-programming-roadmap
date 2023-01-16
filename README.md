@@ -121,7 +121,7 @@ I'm not quite sure that I want to get into kernel development (yet) but the conc
 - [Little OS Book](https://littleosbook.github.io/)
 - [Blog OS: Writing an OS in rust](https://os.phil-opp.com/)
 - [Bootlin Slides and Labs](https://bootlin.com/docs/)
-Stuff to work on:
+- Stuff to work on:
   - [React OS](https://reactos.org/architecture/)
   - [The Eudyptula Challenge](http://www.eudyptula-challenge.org/)
   - [Redox](https://www.redox-os.org/)
