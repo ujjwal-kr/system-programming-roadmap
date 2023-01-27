@@ -15,6 +15,19 @@ Learn any two of the given languages, make some basic projects to get yourself f
 - [Learn C++](https://www.learncpp.com/), [C++ reference](https://en.cppreference.com/w/)
 - [C++ (video)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
+### Learn some Computer Architecture
+
+Learn Arm and RISCV based computer architecture to design an efficient and optimized approach towards solving the problems at hardware level 
+
+- [David A. Patterson, John L. Hennessy "Computer Architecture: A Quantitative Approach"](http://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf)
+- [David A. Patterson, John L. Hennessy "Computer Organization and Design ARM Edition"](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20ARM%20edition.pdf)
+- [David A. Patterson, John L. Hennessy "Computer Organization and Design RISC-V Edition"](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/HandP_RISCV.pdf)
+- [John Paul Shen, Mikko H. Lipasti "Modern Processor Design: Fundamentals of Superscalar Processors"](https://github.com/savitham1/books/raw/master/Modern%20Processor%20Design%20-%20Fundamentals%20of%20Superscalar%20Processors.pdf)
+- [CMU Computer Architecture by OMU Youtube](https://www.youtube.com/channel/UCnoYy1k6I5gLIxhlNiStrdQ) 
+
+
+
+
 ### Learn some x86
 Prerequisites: Learn about [Digital Logic](https://agner.org/digital/digital_electronics_agner_fog.pdf)
 
