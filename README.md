@@ -105,6 +105,7 @@ Prerequisites include high level knowlegde of [VM internals](#vm-internals), and
     - [Cairo](https://www.cairographics.org/) and [Blend2D](https://blend2d.com) These are cross platform, worth looking into.
   - [High performance gc for V8](https://v8.dev/blog/high-performance-cpp-gc)
   - [Adventures in JIT compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
+  - [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
   - Network Programming [Rust Networking](https://www.rust-lang.org/what/networking), [Rust std::net](https://doc.rust-lang.org/std/net/index.html), [C](https://beej.us/guide/bgnet/)
   - After learning about parsing, rendering and JIT, you can now make your own browser with basic APIs and minimal features, following the [whatwg standards](https://whatwg.org/)
 - Exploitation: A great way to understand about how a browser works is to try to hack it: (prerequisites include solid binary exploitation skills)
