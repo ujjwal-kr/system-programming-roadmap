@@ -140,6 +140,7 @@ I'm not quite sure that I want to get into kernel development (yet) but the conc
   - [The Eudyptula Challenge](http://www.eudyptula-challenge.org/)
   - [Redox](https://www.redox-os.org/)
   - [More rust projects](https://wiki.osdev.org/Rust)
+- [Awesome OS on github](https://github.com/jubalh/awesome-os)
 - [My discord server's OS dev channel](https://discord.gg/mAKetvg2eX) to get some more resources and books.
 
 ### VM internals
