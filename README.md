@@ -1,6 +1,6 @@
 # System Programming Roadmap
 
-A three year long roadmap to teach myself compiler dev, malware reverse engineering and kernel dev fundamentals. To be noted they are only for the fundamental knowledge and doesn't make you a master of any. I will pick one or more of the below mentioned fields for later research in some specific topics. [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university) is also has a good list of resources to follow but this is my personal roadmap.
+A three year long roadmap to teach myself compiler dev, malware reverse engineering and kernel dev fundamentals. To be noted they are only for the fundamental knowledge and doesn't make you a master of any. I will pick one or more of the below mentioned fields for later research in some specific topics. [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university) also has a good list of resources to follow but this is my personal roadmap.
 
 Topics to study here may or may not be in order and can be studied according to your preference, gievn that prerequisites are getting fulfilled for each one of them.
 
@@ -17,14 +17,13 @@ Learn any two of the given languages, make some basic projects to get yourself f
 
 ### Learn some Computer Architecture
 
-Learn Arm and RISCV based computer architecture to design an efficient and optimized approach towards solving the problems at hardware level 
+Learn Arm and RISCV based computer architecture to build an efficient and optimized approach towards solving the problems at hardware level 
 
 - [David A. Patterson, John L. Hennessy "Computer Architecture: A Quantitative Approach"](http://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf)
 - [David A. Patterson, John L. Hennessy "Computer Organization and Design ARM Edition"](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20ARM%20edition.pdf)
 - [David A. Patterson, John L. Hennessy "Computer Organization and Design RISC-V Edition"](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/HandP_RISCV.pdf)
 - [John Paul Shen, Mikko H. Lipasti "Modern Processor Design: Fundamentals of Superscalar Processors"](https://github.com/savitham1/books/raw/master/Modern%20Processor%20Design%20-%20Fundamentals%20of%20Superscalar%20Processors.pdf)
 - [CMU Computer Architecture by CMU Youtube](https://www.youtube.com/channel/UCnoYy1k6I5gLIxhlNiStrdQ) 
-
 
 
 
