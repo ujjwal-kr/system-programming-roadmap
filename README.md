@@ -134,6 +134,7 @@ I'm not quite sure that I want to get into kernel development (yet) but the conc
 - [Little OS Book](https://littleosbook.github.io/)
 - [Blog OS: Writing an OS in rust](https://os.phil-opp.com/)
 - [Bootlin Slides and Labs](https://bootlin.com/docs/)
+- [539kernel: A Journey in Creating an OS Kernel](https://539kernel.com/book/)
 - Stuff to work on:
   - [Haiku](https://www.haiku-os.org/)
   - [React OS](https://reactos.org/architecture/)
