@@ -58,6 +58,9 @@ Prerequisites include experience creating projects in a system programming langu
 - [Rust Parsing Basics](https://domenicquirl.github.io/blog/parsing-basics/)
 - Make a tree walk interpreted programming language.
 - Also try to implement a bytecode engine for your interpreter, try out some optimizations and GC.
+- You can also emulate machines like [Chip8](https://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/designs/Chip8.pdf) or [Nes](https://www.nesdev.org/wiki/Nesdev_Wiki).
+  - Emulation requires knowledge of [VM internals](#vm-internals) and graphics programming.
+  - You can use SDL as an IO/graphics/sound engine.
 - Try to make a compiled programming language targetting one architecture.
 - Learn about the [LLVM toolchain](https://llvm.org/docs/)
 - [LLVM tutorial in Rust](https://github.com/jauhien/iron-kaleidoscope)
