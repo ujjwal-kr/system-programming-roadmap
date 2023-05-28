@@ -36,6 +36,7 @@ If you are not familiar with assembly yet, I would recommend to check out some t
 - [Another x86 quickstart[NASM]](https://asmtutor.com/)
 - [Introduction to x86 assembly language by Davy on youtube](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
 - [OMU x86_64 lessons](https://omu.rce.so/lessons/asm-x86-64/)
+- https://asmtutor.com/
 - [x86 Asm](https://en.wikibooks.org/wiki/X86_Assembly)
 - [The Art Of Asm](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
 - Even Manuals are great sources of learning.The manuals for processor can easily be found using a Google search ("Intel Manuals," "ARM manuals)
