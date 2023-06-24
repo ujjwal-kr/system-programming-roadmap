@@ -123,12 +123,12 @@ Prerequisites include a high-level understanding of windows and solid reverse en
 - [Practical Malware Analysis](https://www.amazon.in/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
 - [Malware analysis bootcamp by hackersploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)
 - [CS5138 Malware Analysis, UC](https://class.malware.re/)
+- [Prelude's live streams](https://www.youtube.com/@Preludeorg)
+- [Cr0w's Youtube Channel](https://www.youtube.com/@crr0ww)
 - After learning the basics of malware reversing and behavior, you can now move to reverse some real samples of those.
 - [Labs by Malware Unicorn](https://malwareunicorn.org/#/workshops)
 - [VX Underground - The largest collection of malware source code, samples, and papers on the internet.](https://www.vx-underground.org/)
 - [Malware section from the infosec reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Malware.md)
-- [Prelude's live streams](https://www.youtube.com/@Preludeorg)
-- [Cr0w's Youtube Channel](https://www.youtube.com/@crr0ww)
 
 ### OS Fundamentals
 I'm not quite sure that I want to get into kernel development (yet) but the concepts seem cool and its a good idea for a vacation project or assignments for my OS classes in university. Make sure to read the [requirements](https://wiki.osdev.org/Required_Knowledge) before getting started. 
