@@ -84,6 +84,8 @@ Prerequisites include experience with [assembly](#learn-some-x86).
   - [Windows x64 reversing](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
   - [Win32 API programming](https://riptutorial.com/Download/win32-api.pdf)
   - [Windows exploit dev](https://github.com/FULLSHADE/WindowsExploitationResources)
+  - [Cazz's Youtube channel](https://www.youtube.com/@cazz)
+  - [Game hacking academy](https://gamehacking.academy/about)
 - After learning about some exploitation, you can solve CTFs now. Some of them include:
   -  [pwnable.kr](https://pwnable.kr)
   -  [Exploit Education VMs](https://exploit.education/)
