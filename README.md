@@ -131,6 +131,7 @@ Prerequisites include a high-level understanding of windows and solid reverse en
 - [Labs by Malware Unicorn](https://malwareunicorn.org/#/workshops)
 - [VX Underground - The largest collection of malware source code, samples, and papers on the internet.](https://www.vx-underground.org/)
 - [Malware section from the infosec reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Malware.md)
+- [Malware Bazar](https://bazaar.abuse.ch/)
 
 ### OS Fundamentals
 I'm not quite sure that I want to get into kernel development (yet) but the concepts seem cool and its a good idea for a vacation project or assignments for my OS classes in university. Make sure to read the [requirements](https://wiki.osdev.org/Required_Knowledge) before getting started. 
