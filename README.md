@@ -27,19 +27,17 @@ Learn Arm and RISCV based computer architecture to build an efficient and optimi
 
 
 
-### Learn some x86
+### Learn some Assembly
 Prerequisites: Learn about [Digital Logic](https://agner.org/digital/digital_electronics_agner_fog.pdf)
 
 If you are not familiar with assembly yet, I would recommend checking out some tutorials like-
 - [x86 quickstart[MASM]](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 - [x86 quickstart [NASM]](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
-- [Another x86 quickstart[NASM]](https://asmtutor.com/)
+- [ASM Tutor[NASM]](https://asmtutor.com/)
 - [Introduction to x86 assembly language by Davy on youtube](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
 - [OMU x86_64 lessons](https://omu.rce.so/lessons/asm-x86-64/)
-- https://asmtutor.com/
-- [x86 Asm](https://en.wikibooks.org/wiki/X86_Assembly)
 - [The Art Of Asm](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
-- Even Manuals are great sources of learning. The manuals for processors can easily be found using a Google search ("Intel Manuals," "ARM manuals)
+- [Intel x64 manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 - [Compiler Explorer](https://godbolt.org/): Making C programs and reading the disassembly always helps to match patterns.
 - [Article by 0x41 reversing for dummies](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) to be able to reverse basic crackmes.
 
