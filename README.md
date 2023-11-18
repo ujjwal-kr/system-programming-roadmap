@@ -69,6 +69,7 @@ Prerequisites include experience creating projects in a system programming langu
 
 ### Exploitation
 Prerequisites include experience with [assembly](#learn-some-x86).
+- [ike: Systems Hacking Handbook](https://ike.mahaloz.re/1_introduction/introduction.html)
 - [pwn.college](https://pwn.college) is the best learning resource I got so far for exploitation. From assembly to kernel exploitation, it covers it all.
 - [Introduction to exploit development](https://samsclass.info/127/ED_2020.shtml)
 - [Nightmare](https://guyinatuxedo.github.io/index.html): Intro to binary exploitation based around CTFs.
