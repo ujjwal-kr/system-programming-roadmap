@@ -133,7 +133,7 @@ Prerequisites include a high-level understanding of windows and solid reverse en
 - [Malware Bazar](https://bazaar.abuse.ch/)
 
 ### OS Fundamentals
-I'm not quite sure that I want to get into kernel development (yet) but the concepts seem cool and its a good idea for a vacation project or assignments for my OS classes in university. Make sure to read the [requirements](https://wiki.osdev.org/Required_Knowledge) before getting started. 
+I'm not quite sure that I want to get into kernel development (yet) but the concepts seem cool and its a good idea for a vacation project. Make sure to read the [requirements](https://wiki.osdev.org/Required_Knowledge) before getting started. 
 - [OS Dev Wiki](https://wiki.osdev.org) is the go-to place if you want to learn about OS. It's well documented and also helps eyes to bleed.
 - [Linux Kernel Labs](https://linux-kernel-labs.github.io/refs/heads/master/)
 - [Tutorials Section from awesome OS on github](https://github.com/jubalh/awesome-os#tutorials)
