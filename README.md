@@ -39,7 +39,7 @@ If you are not familiar with assembly yet, I would recommend checking out some t
 - [The Art Of Asm](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
 - [Intel x64 manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 - [Compiler Explorer](https://godbolt.org/): Making C programs and reading the disassembly always helps to match patterns.
-- [Article by 0x41 reversing for dummies](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) to be able to reverse basic crackmes.
+- [Article by 0x44 reversing for dummies](https://0x44.cc/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) to be able to reverse basic crackmes.
 
 After this, I would recommend solving easy crackmes for exercise. [crackmes.one](https://crackmes.one) and tryhackme are places to find some of the easy ones. Hard ones still require some pwning knowledge which I'm gona discuss in the exploitation section.
 
