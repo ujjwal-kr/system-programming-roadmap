@@ -23,8 +23,8 @@ Learn Arm and RISCV based computer architecture to build an efficient and optimi
 - [David A. Patterson, John L. Hennessy "Computer Organization and Design ARM Edition"](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20ARM%20edition.pdf)
 - [David A. Patterson, John L. Hennessy "Computer Organization and Design RISC-V Edition"](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/HandP_RISCV.pdf)
 - [John Paul Shen, Mikko H. Lipasti "Modern Processor Design: Fundamentals of Superscalar Processors"](https://github.com/savitham1/books/raw/master/Modern%20Processor%20Design%20-%20Fundamentals%20of%20Superscalar%20Processors.pdf)
-- [CMU Computer Architecture by CMU Youtube](https://www.youtube.com/channel/UCnoYy1k6I5gLIxhlNiStrdQ) 
-
+- [Jon Stokes "Inside the Machine"](https://archive.org/details/inside-the-machine-an-illustrated-introduction-to-microprocessors-and-computer-architecture-pdfdrive)
+- [CMU Computer Architecture by CMU Youtube](https://www.youtube.com/channel/UCnoYy1k6I5gLIxhlNiStrdQ)
 
 
 ### Learn some Assembly
