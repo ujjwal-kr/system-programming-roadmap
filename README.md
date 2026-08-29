@@ -124,6 +124,7 @@ Prerequisites include a high-level understanding of windows and solid reverse en
 - [Practical Malware Analysis](https://www.amazon.in/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
 - [Malware analysis bootcamp by hackersploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)
 - [CS5138 Malware Analysis, UC](https://class.malware.re/)
+- [Sliver C2 tutorial](https://dominicbreuker.com/post/learning_sliver_c2_01_installation/)
 - [Prelude's live streams](https://www.youtube.com/@Preludeorg)
 - [Cr0w's Youtube Channel](https://www.youtube.com/@crr0ww)
 - After learning the basics of malware reversing and behavior, you can now move to reverse some real samples of those.
